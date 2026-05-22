@@ -30,7 +30,7 @@ export const ui = {
     },
     education: {
       title: "Formation",
-      kicker: "Double cursus juridique",
+      kicker: "Double cursus : droit & anglais",
       ongoing: "En cours",
     },
     skills: {
@@ -86,7 +86,7 @@ export const ui = {
     },
     education: {
       title: "Education",
-      kicker: "Double law degree",
+      kicker: "Double degree: law & English",
       ongoing: "In progress",
     },
     skills: {

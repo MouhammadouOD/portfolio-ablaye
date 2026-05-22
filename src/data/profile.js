@@ -30,8 +30,8 @@ export const profile = {
 
   // --- À propos ---
   about: {
-    fr: "Étudiant en double Licence de droit des affaires et fiscalité, menée à l'Université Cheikh Hamidou Kane et à l'Institut supérieur de Management, j'ai été élu à deux reprises Ministre des Affaires étrangères du gouvernement étudiant de mon établissement. Je travaille en quatre langues et je m'oriente vers la recherche juridique et l'analyse de textes appliquées au droit des affaires. Je recherche un stage ou une alternance confrontée à des dossiers fiscaux et contractuels concrets.",
-    en: "A Business & Tax Law student pursuing a double Bachelor's degree at Université Cheikh Hamidou Kane and Institut supérieur de Management, I was twice elected Minister of Foreign Affairs of my institution's student government. I work in four languages and I am focused on legal research and statutory analysis applied to business law. I am looking for an internship or apprenticeship dealing with concrete tax and contractual matters.",
+    fr: "Étudiant, je mène en parallèle une Licence en droit des affaires et fiscalité à l'Institut supérieur de Management et une Licence d'anglais (3e année) à l'Université Cheikh Hamidou Kane. J'ai été élu à deux reprises Ministre des Affaires étrangères du gouvernement étudiant de mon établissement. Je travaille en quatre langues et je m'oriente vers la recherche juridique et l'analyse de textes appliquées au droit des affaires. Je recherche un stage ou une alternance confrontée à des dossiers fiscaux et contractuels concrets.",
+    en: "As a student, I am pursuing two degrees in parallel: a Bachelor's in Business & Tax Law at Institut supérieur de Management and a Bachelor's in English (third year) at Université Cheikh Hamidou Kane. I was twice elected Minister of Foreign Affairs of my institution's student government. I work in four languages and I am focused on legal research and statutory analysis applied to business law. I am looking for an internship or apprenticeship dealing with concrete tax and contractual matters.",
   },
 
   // --- Engagement & expérience ---
@@ -62,16 +62,16 @@ export const profile = {
     },
     {
       role: { fr: "Stage d'observation", en: "Observation internship" },
-      org: { fr: "Cabinet juridique — Mbour", en: "Law firm — Mbour" },
-      period: { fr: "[Période à compléter]", en: "[Dates to be added]" },
-      type: { fr: "Stage", en: "Internship" },
+      org: { fr: "Lexisen Avocat", en: "Lexisen Avocat" },
+      period: { fr: "Septembre – Octobre 2025", en: "September – October 2025" },
+      type: { fr: "Stage en cabinet d'avocats", en: "Internship — law firm" },
       bullets: {
         fr: [
-          "Observé le traitement de dossiers juridiques au sein d'un cabinet à Mbour.",
+          "Observé le traitement de dossiers juridiques au sein du cabinet d'avocats Lexisen Avocat.",
           "Missions confiées et types de dossiers suivis [à détailler].",
         ],
         en: [
-          "Observed the handling of legal cases within a law firm in Mbour.",
+          "Observed the handling of legal cases within the law firm Lexisen Avocat.",
           "Tasks assigned and types of cases followed [to be detailed].",
         ],
       },
@@ -85,15 +85,15 @@ export const profile = {
         fr: "Licence en droit des affaires et fiscalité",
         en: "Bachelor's in Business & Tax Law",
       },
-      school: "Université Cheikh Hamidou Kane",
-      period: "2023 – 2026",
-      note: { fr: "En cours · Business and Tax Law", en: "In progress · Business and Tax Law" },
-    },
-    {
-      degree: { fr: "Licence en droit des affaires", en: "Bachelor's in Business Law" },
       school: "Institut supérieur de Management",
       period: "2023 – 2026",
-      note: { fr: "En cours · double formation", en: "In progress · double degree" },
+      note: { fr: "En cours · double cursus", en: "In progress · double degree" },
+    },
+    {
+      degree: { fr: "Licence en anglais", en: "Bachelor's in English" },
+      school: "Université Cheikh Hamidou Kane",
+      period: "2023 – 2026",
+      note: { fr: "3e année · en cours", en: "Third year · in progress" },
     },
     {
       degree: { fr: "Baccalauréat — série L", en: "Baccalauréat — Literature track" },
